@@ -1,0 +1,139 @@
+header{
+position: sticky;
+top: -150px;
+
+}
+.entete{
+    
+    z-index: 10;
+background-color: white;
+}
+.b11{
+    background-color: #e9041e;
+    color: white;
+    border: #e9041e;
+}
+.si1{
+font-size: 1.4em;
+color: #6E6C6C;
+
+}
+.navbar-nav{
+    font-weight: 650;
+    font-size: small;
+    margin-top: 10px;
+}
+.p1{
+    display: flex;
+    gap: 10px;
+    margin: -110px 0px 0px 1190px;
+}
+.footer{
+width: 100%;
+height: 300px;
+background-color: black;
+line-height: 5px;
+font-size: small;
+}
+.trait{ 
+    height: 8px;
+    width: 125px;
+    /* margin-left: 15px; */
+    background-color: #e9041e;
+}
+.li{
+color: white;
+}
+.ns{
+margin: -90px 200px 0px 0px;
+}
+.pti1{
+width: 2px;
+height: 20px;
+background-color: white;
+margin: -10px 0px 0px 50px;
+/* border-left: #e9041e solid 2px; */
+
+}
+.pti2{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 55px;
+}.pti3{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 30px;
+}
+.pti4{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 93px;
+}
+.pti5{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 80px;
+}.pti6{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 80px;
+}
+.pti8{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    margin: -10px 0px 0px 105px;
+}
+
+.foot{
+    
+    display: flex;
+    gap: 10px;
+}
+.bbb{
+margin-top: -80px;
+}
+.carf{
+width: 40px;
+height: 40px;
+background-color:#3B5998;
+margin-top: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.carfe{
+    width: 40px;
+    height: 40px;
+    background-color:black;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+.nnn{
+    margin: -100px 200px 0px 0px;
+    }
+    .mia{
+    width: 100%px;
+    height: 279px;
+    display: flex;
+    gap: 25px;
+    margin-left: 120px;
+    }
+.cont{
+    width: 259px;
+    height: 259px;
+    background-color: #f6f7f8;
+    border-radius: 2%;
+    display: flex;
+    font-weight: bold;
+    }
+.con{
+margin: 20px 0px 0px 25px;
+}

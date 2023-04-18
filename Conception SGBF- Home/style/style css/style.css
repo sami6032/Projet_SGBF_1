@@ -1,0 +1,258 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(polices/Montserrat-VariableFont_wght.ttf);
+}
+
+.navbar-nav {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.rect {
+  display: flex;
+}
+.new {
+  display: flex;
+  background-color: red;
+  width: 90px;
+  height: 45px;
+  color: white;
+  font-size: 30px;
+  font-family: Montserrat;
+  margin-left: 15px;
+}
+
+.aligner {
+  display: flex;
+  margin-left: 8px;
+}
+
+.newp {
+  display: flex;
+  background-color: #f6f7f8;
+  width: 285px;
+  height: 300px;
+  margin-top: 45px;
+  margin-left: -89px;
+}
+.fevr {
+  font-family: Montserrat;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.sp12 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.sgbf {
+  font-family: Montserrat;
+  margin-top: 100px;
+  margin-left: -80px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.sg {
+  font-weight: bold;
+}
+
+.card {
+  display: flex;
+  margin-left: 30px;
+  height: 285px;
+}
+
+.img {
+  display: flex;
+  margin-left: 30px;
+}
+.img1 {
+  display: flex;
+  width: 455px;
+  height: 250px;
+}
+.rect2 {
+  display: flex;
+  background-color: #f6f7f8;
+  width: 585px;
+  height: 300px;
+  margin-top: 50px;
+  flex-direction: column;
+}
+
+.eu {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 20px;
+}
+
+.dol {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+
+.cana {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+.suis {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+.ster {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+.cfa {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 5px;
+}
+.cous {
+  display: flex;
+  margin-left: -1px;
+  padding-left: 25px;
+  margin-top: 70px;
+}
+
+.rectint1 {
+  display: flex;
+  margin-left: 366px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.span1 {
+  display: flex;
+  margin-left: 3px;
+}
+
+.rectint2 {
+  display: flex;
+  margin-left: 278px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.rectint3 {
+  display: flex;
+  margin-left: 282px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.rectint4 {
+  display: flex;
+  margin-left: 308px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.rectint5 {
+  display: flex;
+  margin-left: 303px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.rectint6 {
+  display: flex;
+  margin-left: 325px;
+  background-color: white;
+  border: solid 1px;
+  width: 95px;
+  height: 25px;
+}
+
+.rectint7 {
+  display: flex;
+  margin-left: 298px;
+}
+
+.span2 {
+  color: red;
+}
+
+.span3 {
+  font-weight: bold;
+}
+.sect {
+  display: flex;
+}
+.calcu {
+  display: flex;
+  margin-top: 50px;
+}
+
+.bg-dark {
+  line-height: 4px;
+}
+.img-fluid {
+  display: flex;
+  width: 140px;
+}
+.conta {
+  display: flex;
+  margin-left: 12px;
+}
+.bar {
+  display: flex;
+  background-color: white;
+  height: 20px;
+  width: 2px;
+  border: solid 1px;
+  border-color: white;
+  margin-left: 5px;
+  margin-top: -7px;
+}
+.trait {
+  display: flex;
+  margin-left: 90px;
+}
+.container1 {
+  display: flex;
+  margin-left: 1150px;
+  margin-top: -100px;
+}
+.img2 {
+  display: flex;
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 1280px;
+}
+.nous {
+  display: flex;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 800px;
+  margin-top: -290px;
+  color: white;
+}
+.img3 {
+  display: flex;
+  width: 50px;
+  margin-left: 800px;
+}
